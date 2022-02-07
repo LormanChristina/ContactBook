@@ -10,6 +10,8 @@ For convenience, there is a live API server running at [this page](https://conta
 
 
 
-###Getting started
+## __Getting started__
+
 ```npm install``` - to install all dependencies
+
 ```npm run start``` - to start the app
